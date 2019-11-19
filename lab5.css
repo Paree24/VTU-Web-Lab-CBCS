@@ -1,0 +1,15 @@
+students{
+    background: grey;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+student{
+    display: block;
+    border: 2px solid black;
+    margin: 50px;
+    background: #222222
+}
+name,usn,year,branch,college,email{
+  display: block;
+  color: white; 
+}

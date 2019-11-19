@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="lab5.css"?>
+<students>
+    <student> 
+        <name>Pareekshith </name>
+        <usn>4MH16CS069</usn>
+        <year>2016</year>
+        <branch>CSE</branch>
+        <email>pareekshith@gmail.com</email>
+        <college>MIT Mysore</college>
+    </student>
+    <student> 
+        <name>Ponnanna </name>
+        <usn>4MH16CS071</usn>
+        <year>2016</year>
+        <branch>CSE</branch>
+        <email>ponnanna@gmail.com</email>
+        <college>MIT Mysore</college>
+    </student>
+    <student> 
+        <name>Shivshankar</name>
+        <usn>4MH15CS085</usn>
+        <year>2015</year>
+        <branch>CSE</branch>
+        <email>Shivu@gmail.com</email>
+        <college>MIT Mysore</college>
+    </student>
+</students>
